@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/waking-beside-memories/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Waking Beside Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waking-beside-memories/) |
+| **Get License** | [Secure Licensing Rights for Waking Beside Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waking-beside-memories/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0f27e8f7669b8d964f4165f7421c61f68fc645c85638c57bf446c6ba9a1e5dd6` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

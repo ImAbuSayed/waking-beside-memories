@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Waking Beside Memories
+
+This log tracks the cryptographic history and versioning for the song **Waking Beside Memories** (waking-beside-memories).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:17:05.078159 | `v1` | `0f27e8f7669b8d964f4165f7421c61f68fc645c85638c57bf446c6ba9a1e5dd6` | `1d89a52fe1c38bbcb25088bb883fa853d2f28d8aa11df2b4078ae5a496ef85f8` | `2026-05-25_waking-beside-memories-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
