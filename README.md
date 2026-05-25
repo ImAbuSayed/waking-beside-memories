@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/waking-beside-memories/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Waking Beside Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waking-beside-memories/) |
+| **Get License** | [Get a Licensing Quote for Waking Beside Memories](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waking-beside-memories/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the whiskey in the air when you're looking at me
+> A quiet kind of fire burning wild and free
+> You slide a little closer and the whole room fades
+> Just two shadows tangled in the mess we made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
